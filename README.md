@@ -39,7 +39,7 @@ I started with the assumption that the calculation could be described in simple 
 <p>Here is the formula that can predict the medical charges applied to any non-smoking individual:</p>
 <p>
 def insurance_cost(age, bmi, children, region, sex): <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;s_cost = (float(age ** 2) * 3.363)+(bmi * 1.39)+(children * 589.0) <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;s_cost = (float(age ** 2) * 3.363) + (bmi * 1.39) + (children * 589.0) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;if region == 'northeast': <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;s_cost += 583.0 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;if region == 'northwest': <br>
