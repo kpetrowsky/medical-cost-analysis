@@ -4,6 +4,14 @@
 <h2>Introduction</h2>
 <b>This project explores the relationship between individual factors and medical costs. By isolating and analyzing key variables of a large dataset, I built a predictive model to estimate healthcare expenses. This was a clean dataset of 1338 observations with 7 columns: age, sex, bmi, children, smoker, region, and charges</b>
 
+<h2>Tools Used</h2>
+<ul>
+  <li>Jupyter Labs</li>
+  <li>Python Pandas</li>
+  <li>Python Scatter Plots</li>
+  <li>Excel Charts</li>
+</ul>
+
 <h2>Methodology</h2>
 I started with the assumption that the calculation could be described in simple mathematical terms. Each subsection will highlight how I analyzed each individual factor.
 
