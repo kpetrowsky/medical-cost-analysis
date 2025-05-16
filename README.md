@@ -38,4 +38,4 @@ def insurance_cost(age, bmi, children, region, sex): <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;s_cost += 489.0 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;return s_cost <br>
 </p>
-<p>I found that this can perfectly predict the charges apploed to most individuals in the dataset, this could be used to identify people who are over or undercharged.</p>
+<p>I found that this can perfectly predict the charges applied to most individuals in the dataset, this could be used to identify people who are over or undercharged.</p>
